@@ -1,0 +1,15 @@
+{
+  "contact": "",
+  "templates": [
+    {
+      "name": "Pixelmai",
+      "sources": [
+        "https://raw.githubusercontent.com/YamaiSenpai/pixelmai/main/pixelmai%20pixel%20perfect.png"
+      ],
+      "x": -173,
+      "y": -248
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
